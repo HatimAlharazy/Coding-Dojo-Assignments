@@ -1,0 +1,349 @@
+* {
+ margin: 0px;
+ padding: 0px;
+ font-family: sans-serif;
+}
+
+#container {
+  background-color: black;
+  height: 1663px;
+width: 1448px;
+
+}
+
+#wrapper {
+    background-color: #1a1a1a;
+    width: 1432px;
+    margin-left: 8px;
+    height: 137px;
+
+
+
+}
+
+#sizing {
+  margin-top: 13px;
+  margin-left: 15px;
+  margin-bottom: 7px;
+
+}
+
+#text-color {
+  color: white;
+  margin-left: 1057px;
+  padding-left: 189px;
+  margin-top: -119px;
+}
+
+
+nav {
+
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   background: linear-gradient(#515151, #3f3f3f, #292929);
+   height: 50px;
+   margin-left: 8px;
+   margin-right: 9px;
+}
+
+
+
+li {
+  display: inline-block;
+  margin: 20px;
+  margin-top: 15px;
+  margin-left: 20px;
+  color: #a7a7a4;
+
+}
+
+
+#line {
+  margin-left: 70px;
+  margin-top: -24px;
+  margin-right: -12px;
+}
+
+#color {
+  color: #e0ded8;
+}
+
+
+hr {
+  border-color:#515151;
+}
+
+#line-two {
+  margin-left: 84px;
+  margin-top: -24px;
+  margin-right: -4px;
+
+}
+
+#line-three{
+  margin-left: 107px;
+  margin-top: -24px;
+  margin-right: -10px;
+}
+
+
+#line-four {
+  margin-left: 133px;
+  margin-top: -23px;
+  margin-right: -5px;
+}
+
+#line-five {
+  margin-left: 107px;
+  margin-top: -23px;
+  margin-right: -14px;
+
+}
+
+#line-six {
+  margin-left: 1376px;
+  margin-top: -60px;
+  width: 1px;
+  width: 1px;
+  height: 54px;
+
+}
+
+#sizing-two {
+  margin-left: 7px;
+}
+
+#small-border {
+  background-color: #393939;
+  height: 8px;
+  margin-top: -4px;
+  margin-left: 6px;
+  margin-right: 6px
+}
+
+.hr-size {
+    height: 29px;
+    width: 1px;
+
+}
+
+
+#middle-content {
+  background-color: #1a1a1a;
+  height: 275px;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+#icon {
+
+  margin-top: 40px;
+  margin-left: 17px;
+}
+
+.orange-color {
+  color: #ef6f01;
+}
+
+#cloud-spacing {
+  margin-left: 105px;
+  margin-top: -46px;
+}
+
+#first-text {
+  margin-left: 98px;
+  margin-top: 15px;
+  color: white;
+}
+
+#icon-two {
+  margin-left: 386px;
+  margin-top: -160px;
+  margin-bottom: 400px;
+}
+
+#clock-spacing {
+  margin-left: 475px;
+    margin-top: -453px;
+}
+
+#second-text {
+  margin-left: 472px;
+  margin-top: 16px;
+  color: white;
+}
+
+#icon-three {
+  margin-left: 769px;
+  margin-top: -151px;
+  margin-bottom: 91px;
+}
+
+#location-spacing {
+  margin-left: 851px;
+  margin-top: -151px;
+
+}
+
+#third-text {
+  margin-left: 847px;
+  margin-top: 14px;
+  color: white;
+}
+
+#icon-four {
+  margin-left: 1150px;
+margin-top: -125px;
+margin-bottom: 74px;
+}
+
+#refresh-spacing {
+  margin-left: 1236px;
+  margin-top: -138px;
+
+}
+
+#fourth-text {
+  margin-left: 1239px;
+  margin-top: 12px;
+  color: white;
+}
+
+#bg-color {
+  background-color: #080808;
+  width: 1439px;
+  height: 191px;
+  margin-left: 5px;
+}
+
+#align{
+  color: white;
+  margin-left: 41px;
+  padding-top: 40px;
+  margin-right: 262px;
+
+}
+
+#align-two {
+    color: white;
+     margin-left: 41px;
+     margin-top: 34px;
+     margin-right: 293px;
+
+
+}
+
+button {
+  background-color: #fd7900;
+  color: white;
+  border-radius: 9px;
+  width: 130px;
+  height: 45px;
+  font-size: 17px;
+  margin-top: -65px;
+  margin-left: 1260px;
+  display: block;
+  border: #fd7900;
+}
+
+footer {
+  background-color: #131313;
+width: 1438px;
+height: 480px;
+margin-left: 9px;
+
+}
+
+#first-header {
+
+  margin-left: 25px;
+  padding-top: 25px;
+}
+#portfolio {
+    color: white;
+    margin-left: 29px;
+    padding-top: 23px;
+    padding-bottom: 10px;
+
+}
+
+footer h5 {
+  margin-left: 1267px;
+  margin-top: -24px;
+}
+
+#pic {
+  margin-left: 23px;
+  margin-top: 34px;
+  border: 4px solid #333333;
+
+}
+
+#first-paragraph {
+  color: white;
+  margin-left: 22px;
+  margin-top: 20px;
+}
+
+#pic-two {
+  border: 4px solid #333333;
+  margin-left: 391px;
+  margin-top: -347px;
+  margin-bottom: 166px;
+}
+
+#second-header {
+  margin-left: 394px;
+  margin-top: -144px;
+}
+
+#second-paragraph {
+
+  color: white;
+  margin-left: 389px;
+  margin-top: 20px;
+}
+
+#pic-three {
+  border: 4px solid #333333;
+  margin-left: 750px;
+  margin-top: -343px;
+  margin-bottom: 154px;
+}
+
+#third-header {
+  margin-left: 760px;
+  margin-top: -137px;
+}
+
+#third-paragraph {
+  color: white;
+  margin-left: 758px;
+  margin-top: 17px;
+
+}
+
+#pic-four {
+  border: 4px solid #333333;
+  margin-left: 1097px;
+  margin-top: -338px;
+  margin-bottom: 153px;
+}
+
+#fourth-header {
+  margin-left: 1104px;
+  margin-top: -137px;
+}
+
+#fourth-paragraph {
+  color: white;
+  margin-left: 1103px;
+  margin-top: 15px;
+}
+
+footer h6 {
+  color: #7a7773;
+  margin-left: 1328px;
+  margin-top: 35px;
+}
